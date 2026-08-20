@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-at14t4.netobenassi.online/sitemap.xml
